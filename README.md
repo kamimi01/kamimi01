@@ -27,7 +27,7 @@ And I really enjoyed the work I am currently doing.
 </div>
 <br>
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
@@ -36,7 +36,7 @@ And I really enjoyed the work I am currently doing.
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-### 👩🏻‍💻 Technologies
+## 👩🏻‍💻 Technologies
 <!-- 
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -52,7 +52,7 @@ And I really enjoyed the work I am currently doing.
 - MySQL
 - Git
 
-### 🛠 Tools
+## 🛠 Tools
 
 <!-- <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -69,7 +69,7 @@ And I really enjoyed the work I am currently doing.
   - Figma
   - Adobe XD
 
-### Quick stats
+## Quick stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamimi01&show_icons=true&count_private=true&theme=swift" />
