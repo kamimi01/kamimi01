@@ -65,6 +65,9 @@ And I really enjoyed the work I am currently doing.
   - GitHub
   - GitLab
   - CodeCommit
+- CI / CD Tools
+  - Bitrise
+  - Fastlane
 - Design Tools
   - Figma
   - Adobe XD
@@ -75,6 +78,7 @@ And I really enjoyed the work I am currently doing.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamimi01&show_icons=true&count_private=true&theme=swift" />
 </a>
 
+<!-- Most Used Languages -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamimi01&show_icons=true&count_private=true&theme=swift" />
 </a> -->
