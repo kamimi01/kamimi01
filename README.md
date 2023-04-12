@@ -27,7 +27,7 @@ And I really enjoyed the work I am currently doing.
 </div>
 
 <div align="center">
-<h5>🌞 Portfolio is <a href="https://furry-cart-2de.notion.site/Mika-Urakawa-s-Portfolio-1d1712ef60ef49319095650410b1f0d6">HERE</a>! 🌞<br> （<a href="https://furry-cart-2de.notion.site/2ffb5392c5134b979db7f71ee31e90f5">日本語版</a>もございます）</h5>
+<h5>🌞 Portfolio is <a href="https://kamimi.notion.site/Mika-Urakawa-s-Portfolio-1d1712ef60ef49319095650410b1f0d6">HERE</a>! 🌞<br> （<a href="https://kamimi.notion.site/2ffb5392c5134b979db7f71ee31e90f5">日本語版</a>もございます）</h5>
 </div>
 
 ## 💻 Programming Languages
