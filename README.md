@@ -30,6 +30,12 @@ And I really enjoyed the work I am currently doing.
 <h5>🌞 Portfolio is <a href="https://kamimi.notion.site/Mika-Urakawa-s-Portfolio-1d1712ef60ef49319095650410b1f0d6">HERE</a>! 🌞<br> （<a href="https://kamimi.notion.site/2ffb5392c5134b979db7f71ee31e90f5">日本語版</a>もございます）</h5>
 </div>
 
+<br>
+
+<div align="center">
+<a href=https://www.buymeacoffee.com/kamimi01><img src=https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png alt="buymeacoffee" width=200 height="40"></a>
+</div>
+
 ## 💻 Programming Languages
 
 <p align="left">
