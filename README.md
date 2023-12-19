@@ -32,10 +32,6 @@ And I really enjoyed the work I am currently doing.
 
 <br>
 
-<div align="center">
-<a href=https://www.buymeacoffee.com/kamimi01><img src=https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png alt="buymeacoffee" width=200 height="40"></a>
-</div>
-
 ## 💻 Programming Languages
 
 <p align="left">
@@ -92,6 +88,13 @@ And I really enjoyed the work I am currently doing.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamimi01&show_icons=true&count_private=true&theme=swift" />
 </a>
+
+<br>
+<br>
+
+<div align="left">
+<a href=https://www.buymeacoffee.com/kamimi01><img src=https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png alt="buymeacoffee" width=200 height="40"></a>
+</div>
 
 <!-- Most Used Languages -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
