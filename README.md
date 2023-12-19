@@ -5,7 +5,7 @@ I'm an iOS App Developer.
 </p>
 
 <p align="center">
-I have 6 years of experience working in IT, where I am currently responsible for developing iOS Apps as a developer.
+I have 6 years of experience working in IT industry, where I am currently responsible for developing iOS Apps as a developer.
 And I really enjoyed the work I am currently doing.
 </p>
 
@@ -50,11 +50,16 @@ And I really enjoyed the work I am currently doing.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p> -->
 
-
-- RESTful API
-- Node.js
-- express
-- MySQL
+- iOS
+  - SwiftUI
+  - UIKit
+  - Vapor
+- API
+  - RESTful API
+  - Node.js
+  - express
+- DB
+  - MySQL
 - Git
 
 ## 🛠 Tools
@@ -64,8 +69,9 @@ And I really enjoyed the work I am currently doing.
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p> -->
 
-- Xcode
-- Visual Studio Code
+- Development Environment
+  - Xcode
+  - Visual Studio Code
 - Git
   - GitHub
   - GitLab
