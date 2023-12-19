@@ -5,7 +5,7 @@ I'm an iOS App Developer.
 </p>
 
 <p align="center">
-I have 4 years of experience working in IT, where I am currently responsible for developing iOS Apps as a developer.
+I have 6 years of experience working in IT, where I am currently responsible for developing iOS Apps as a developer.
 And I really enjoyed the work I am currently doing.
 </p>
 
