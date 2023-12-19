@@ -77,9 +77,15 @@ And I really enjoyed the work I am currently doing.
 - CI / CD Tools
   - Bitrise
   - Fastlane
+  - CircleCI
+  - GitHub Actions
 - Design Tools
   - Figma
   - Adobe XD
+- Project Management Tools
+  - JIRA
+  - Confluence
+  - Notion
 
 ## Quick stats
 
